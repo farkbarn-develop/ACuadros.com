@@ -1,0 +1,10 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'arial-narrow';
+  src: url('../Fonts/arial-narrow.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+*{text-align: 0;text-decoration: none;font-family: 'Open Sans';float: left;}
+body{width: 100%;float: left;background-image:url("../img/fondodogorange.jpeg");opacity: 0.5;z-index: 0;}
