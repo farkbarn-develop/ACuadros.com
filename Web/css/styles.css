@@ -18,11 +18,17 @@ section{float: left;}
 .TxtCabMas{width: 100%;height: 230px;}
 
 .linkcabezal{margin-left: 10%;padding-left: 265px;float: right;padding-right: 10px;}
-.Logotipo{width: 47%;margin-bottom: 28px;float: right;padding-top: 20px;}
+.Logotipo{width: 50%;margin-bottom: 12px;float: right;padding-top: 20px;}
 
 .Franja{width: 100%; background-image: url(../img/Franja.png);}
 .Telf{float: left;margin-top: 40px;margin-bottom: 24px;}
-.Cont{width: 100%;height: 600px;background-color: #cbdec8;}
+.Cont{width: 100%;padding-top: 50px;padding-bottom: 100px; background-color: #cbdec8;}
+.ConLef{float: left;width: 50%;}
+.ConRig{float: right;width: 50%;}
+.Mueble{max-width: 300px;float: right;display: block;width: 50%;float: right;margin-right: 40px;margin-bottom: 20px;}
+/*.ImgElige{float:right;display: block;}*/
+.ImgEli{width: 50%;margin-top: 250px;;margin-right: 50px;float: right;display: block;}
+.Not1,.Not2{float: left; width: 100px;height: 350px;inline-size: inherit;margin: 50px 30%;background-color: #FFF;border-radius: 15px;}
 
 
 
