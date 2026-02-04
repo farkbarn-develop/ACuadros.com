@@ -9,9 +9,6 @@
    viewBox="0 0 1122.52 232.54533"
    sodipodi:docname="Linea.svg"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   inkscape:export-filename="Linea.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -62,9 +59,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.51843073"
-     inkscape:cx="594.10058"
-     inkscape:cy="161.06298"
+     inkscape:zoom="0.43591016"
+     inkscape:cx="506.9852"
+     inkscape:cy="248.9045"
      inkscape:window-width="1366"
      inkscape:window-height="702"
      inkscape:window-x="0"
@@ -868,5 +865,33 @@
        d="m 0,0 c 0,-3.244 -1.527,-5.874 -3.411,-5.874 -1.883,0 -3.41,2.63 -3.41,5.874 0,3.244 1.527,5.874 3.41,5.874 C -1.527,5.874 0,3.244 0,0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#e8542c;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3333333,0,0,-1.3333333,830.0304,223.78747)" />
+    <ellipse
+       style="fill:#ffffff"
+       id="path160"
+       cx="329.59833"
+       cy="226.28836"
+       rx="2.1290572"
+       ry="4.8664165" />
+    <ellipse
+       style="fill:#ffffff"
+       id="path161"
+       cx="321.38626"
+       cy="225.98421"
+       rx="2.6359756"
+       ry="5.981637" />
+    <ellipse
+       style="fill:#ffffff"
+       id="path162"
+       cx="311.85617"
+       cy="225.57867"
+       rx="2.6359756"
+       ry="5.3733349" />
+    <ellipse
+       style="fill:#ffffff"
+       id="path163"
+       cx="302.52887"
+       cy="226.18698"
+       rx="3.0415103"
+       ry="4.359498" />
   </g>
 </svg>
