@@ -1,4 +1,11 @@
-@media (max-width: 1024px){}
-@media (max-width:768px){}
-@media (max-width:480px){}
-@media (max-width:320px){}
+/*RESPONSIVE DESIGN*/
+@media (max-width:2560px){.Logotipo{width: 27%;},.CabMas{min-height: 363px;margin: 30px auto 0px auto;display: flex;flex-wrap: nowrap;justify-content: center;align-items: center;}}
+@media (max-width:2560px){.Logotipo{width: 27%;},.CabMas{min-height: 363px;}}
+@media (max-width:1500px){.Logotipo{width: 27%;}}
+@media (max-width:1440px){.Logotipo{width: 27%;},.CabMas{background-size: 100%;min-height: 243px;,height: 243px;background-size: cover;height: 240px;}}
+@media (max-width:1024px){.nota{margin: 170px 100px;},.ImgEli{width: 60%;},.linkcabezal{},.Logotipo{width: 27%;},.CabMas{height: 190px;}}
+@media (max-width:768px){.CabMas{height: 143px;}.nota{margin: 170px 70px;}}
+@media (max-width:480px){.linkcabezal{margin-top: -26px;}}
+@media (max-width:425px){.Cont{padding-top: 20px;}.ConLef{width: 74%;},.ConRig {width: 100%;}}
+@media (max-width:375px){.CabMas{background-image: none;height: 185px;background-color: #e95126;padding-left: 10px;}}
+@media (max-width:320px){.nota{margin: 170px 60px;}}
