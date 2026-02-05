@@ -11,7 +11,7 @@
 body{width: 100%;padding: 0px 0px;float: left;background-image:url("../img/fondodogorange.jpeg");}
 .main{width: 100%;}
 section{float: left;}
-.CabMas{width: 100%;height: 248px;/*min-height: 364px;height: 242px;*/background-color: white;float: left;background-image: url("../img/LineaMascotas.png");background-size: cover;}
+.CabMas{width: 100%;/*height: 248px;*//*min-height: 364px;height: 242px;*/background-color: white;float: left;background-image: url("../img/LineaMascotas.png");background-size: cover;}
 .TxtCabMas{width: 100%;height: 230px;}
 .linkcabezal{/*margin-left: 10%;padding-left: 265px;*/float: right;padding-right: 10px;width: 100%;}
 .Logotipo{width: 43%;margin-bottom: 12px;float: right;padding-top: 40px;}
@@ -26,3 +26,14 @@ section{float: left;}
 .Not1,.Not2{float: left; width: 100px;height: 350px;inline-size: inherit;margin: 50px 30%;background-color: #FFF;border-radius: 15px;}
 .nota{margin: 170px 140px;}
 
+/*RESPONSIVE DESIGN*/
+@media screen (max-width:2560px){.Logotipo{width: 27%;},.CabMas{min-height: 363px;margin: 30px auto 0px auto;display: flex;flex-wrap: nowrap;justify-content: center;align-items: center;}}
+@media screen (max-width:2560px){.Logotipo{width: 27%;},.CabMas{min-height: 363px;}}
+@media screen (max-width:1500px){.Logotipo{width: 27%;}}
+@media screen (max-width:1440px){.Logotipo{width: 27%;},.CabMas{background-size: 100%;min-height: 243px;,height: 243px;background-size: cover;height: 240px;}}
+@media screen (max-width:1024px){.nota{margin: 170px 100px;},.ImgEli{width: 60%;},.Logotipo{width: 27%;},.CabMas{height: 185px;}}
+@media screen (max-width:768px){.CabMas{height: 143px;}.nota{margin: 170px 70px;}}
+@media screen (max-width:480px){.linkcabezal{margin-top: -26px;}}
+@media screen (max-width:425px){.Cont{padding-top: 20px;}.ConLef{width: 74%;},.ConRig {width: 100%;}}
+@media screen (max-width:375px){.CabMas{background-image: none;height: 185px;background-color: #e95126;padding-left: 10px;}}
+@media screen (max-width:320px){.nota{margin: 170px 60px;}}
