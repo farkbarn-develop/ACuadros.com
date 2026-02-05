@@ -6,6 +6,6 @@
 @media screen and (max-width:1024px){.CabMas{height: 190px;},.nota{margin: 170px 100px;},.ImgEli{width: 60%;},.Logotipo{width: 27%;},.CabMas{height: 185px;}}
 @media screen and (max-width:768px){.CabMas {height: 140px;},.nota{margin: 170px 70px;}}
 @media screen and (max-width:480px){.linkcabezal{margin-top: -26px;}}
-@media screen and (max-width:425px){.CabMas{height: 75px;},.Cont{padding-top: 20px;}.ConLef{width: 74%;},.ConRig {width: 100%;}}
-@media screen and (max-width:375px){.CabMas{background-image: none;height: 185px;background-color: #e95126;padding-left: 10px;}.Logotipo{width: 95%;},.ImgEli{width: 100%;margin-top: 50px;}}
+@media screen and (max-width:425px){.ImgEli{width: 100%;},.CabMas{height: 75px;},.Cont{padding-top: 20px;}.ConLef{width: 74%;},.ConRig {width: 100%;}}
+@media screen and (max-width:375px){.ImgEli{width: 100%;},.CabMas{background-image: none;height: 185px;background-color: #e95126;padding-left: 10px;}.Logotipo{width: 95%;},.ImgEli{width: 100%;margin-top: 50px;}}
 @media screen and (max-width:320px){.nota{margin: 170px 60px;}.ImgEli{width: 100%;margin-top: 50px;}}
