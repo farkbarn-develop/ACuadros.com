@@ -25,6 +25,8 @@ section{float: left;}
 .ImgEli{width: 50%;margin-top: 200px;;margin-right: 50px;float: right;display: block;}
 .Not1,.Not2{float: left; width: 100px;height: 350px;inline-size: inherit;margin: 50px 30%;background-color: #FFF;border-radius: 15px;}
 .nota{margin: 170px 140px;}
+.menu_p{float: right;background-color: #e8542c;padding: 10px 5px;border-radius: 50px 0 0 50px;}
+.menu_p a{padding:5px 10px;color: #FFF;font-weight: bold;font-style: italic;}
 
 /*RESPONSIVE DESIGN*/
 @media screen (max-width:2560px){.Logotipo{width: 27%;},.CabMas{min-height: 363px;margin: 30px auto 0px auto;display: flex;flex-wrap: nowrap;justify-content: center;align-items: center;}}
