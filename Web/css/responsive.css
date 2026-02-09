@@ -20,4 +20,9 @@
 .ImgEli{width: 100%;margin-top: 50px;}
 }
 
-@media screen and (max-width:320px){.nota{margin: 170px 60px;}.ImgEli{width: 100%;margin-top: 50px;}}
+@media screen and (max-width:320px){
+    .nota{margin: 170px 60px;}
+    .ImgEli{width: 100%;margin-top: 50px;}
+    .CabMas{background-image: none;background-color: #e95126;}
+    .Logotipo{width: 80%;margin: 0 7%;}
+}
