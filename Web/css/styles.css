@@ -28,6 +28,52 @@ section{float: left;}
 .menu_p{float: right;background-color: #e8542c;padding: 10px 5px;border-radius: 50px 0 0 50px;}
 .menu_p a{padding:5px 10px;color: #FFF;font-weight: bold;font-style: italic;}
 
+.ini a{border-radius: 50px 0 0 50px;}
+.con a,.menu-content li a{background-color: #e8542c;}
+.con a{border-radius: 0 50px 50px 0;}
+.menu-content li a{font-weight: bold;}
+.menu-content li a:hover{font-style: italic;}
+
+.menu-container{float: right;}
+/* Ocultar el checkbox real */
+.menu-checkbox {
+  display: none;
+}
+
+/* Estilo del menú contraído (oculto) */
+.menu-content {
+  display: none;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Mostrar menú al hacer clic (checkbox activado) */
+.menu-checkbox:checked ~ .menu-content {
+  display: block;
+}
+
+/* Estilos visuales básicos */
+.menu-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #e8542c;
+  color: white;
+  cursor: pointer;
+  border-radius: 50px 0 0 50px;
+  float: right;
+}
+
+.menu-content li a {
+  display: block;
+  padding: 10px;
+  background-color:#e8542c /* #f4f4f4*/;
+  text-decoration: none;
+  color: #FFF /* #333 */;
+}
+
+
+
 /*RESPONSIVE DESIGN*/
 @media screen (max-width:2560px){.Logotipo{width: 27%;},.CabMas{min-height: 363px;margin: 30px auto 0px auto;display: flex;flex-wrap: nowrap;justify-content: center;align-items: center;}}
 @media screen (max-width:2560px){.Logotipo{width: 27%;},.CabMas{min-height: 363px;}}
